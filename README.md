@@ -7,4 +7,4 @@ A low level calculator based on [this repository.](https://github.com/nieltg/nai
 2. Create math.txt with math statement
 3. Run compiled program
 
-Task specification in indonesian can be found [here](../docs/Low-level Calculator.pdf)
+Task specification in indonesian can be found [here](../docs/Low-level\ Calculator.pdf)
