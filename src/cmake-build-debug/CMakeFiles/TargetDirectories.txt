@@ -1,0 +1,3 @@
+D:/Sistah/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sistah/src/cmake-build-debug/CMakeFiles/lowlevelcalc.dir
+D:/Sistah/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
